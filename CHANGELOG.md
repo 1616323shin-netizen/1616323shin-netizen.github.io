@@ -5,6 +5,13 @@
 
 ## [Unreleased]
 
+### Changed
+- indexの更新を行った
+
+### Added
+- CSSのstyle01を追加した
+  
+
 ## [0.2.0] - 2026-11-17
 
 ### Changed
