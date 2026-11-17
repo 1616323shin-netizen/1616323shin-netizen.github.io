@@ -6,7 +6,7 @@
 /* ページ全体の背景 */
 html {
     min-height: 100%;
-    background-color: #f3f6fb;
+    background-color: rgb(174, 237, 251);
 }
 
 /* コンテンツを中央に配置する */
@@ -64,6 +64,7 @@ p {
     background-color: #ffffff;
     box-shadow: 0 4px 16px rgba(15, 23, 42, 0.04);
     line-height: 2;
+	font-size: 15px;
 }
 
 /* 作品紹介用のカード */
